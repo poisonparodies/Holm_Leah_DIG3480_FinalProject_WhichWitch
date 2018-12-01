@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Skull
+  - Start
+  - Particle
+  - Loss
+  - Win
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1220102519
+    locked: 0
+  - name: Wall
+    uniqueID: 1808876259
+    locked: 0
+  - name: Particle
+    uniqueID: 3701904927
+    locked: 0
+  - name: Player
+    uniqueID: 3358448213
+    locked: 0
+  - name: Object
+    uniqueID: 362422637
+    locked: 0
+  - name: Title
+    uniqueID: 306644381
+    locked: 0
